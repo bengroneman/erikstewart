@@ -1,0 +1,11 @@
+---
+label: Privacy Policy
+hide_body: false
+fields:
+- name: page_title
+  type: text
+  config:
+    required: false
+  label: Page Title
+pages:
+- sub_pages/Privacy-Policy.md

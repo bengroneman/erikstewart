@@ -1,0 +1,9 @@
+---
+label: Contact
+hide_body: false
+fields:
+- type: file
+  name: featured_image
+  label: featured_image
+pages:
+- sub_pages/Contact.md
